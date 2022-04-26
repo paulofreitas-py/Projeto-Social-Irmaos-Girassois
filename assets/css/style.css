@@ -10,10 +10,10 @@ body {
 }
 
 #userPhoto {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     display: block;
-    margin: 35px auto 20px;
+    margin: 35px auto 50px;
     border-radius: 50%;
 }
 
@@ -78,7 +78,7 @@ body {
 .night_mode {
     position: fixed;
     top: 25px;
-    right: 30px;
+    right: 50px;
     z-index: 10000000;
     color: #ff7b00;
 }
